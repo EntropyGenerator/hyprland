@@ -9,3 +9,5 @@
 !waybar/**
 !wofi/
 !wofi/**
+!kitty/
+!kitty/**
