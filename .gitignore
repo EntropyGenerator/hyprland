@@ -11,3 +11,5 @@
 !wofi/**
 !kitty/
 !kitty/**
+!wlogout/
+!wlogout/**
